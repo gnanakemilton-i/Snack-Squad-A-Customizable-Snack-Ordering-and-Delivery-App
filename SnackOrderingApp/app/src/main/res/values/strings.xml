@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Snack Ordering App</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_main_page">MainPage</string>
+    <string name="sandwish">sandwish</string>
+    <string name="burgers">burgers</string>
+    <string name="pack">pack</string>
+    <string name="pasta">pasta</string>
+    <string name="tequila">tequila</string>
+    <string name="wine">wine</string>
+    <string name="salad">salad</string>
+    <string name="popcorn">popcorn</string>
+    <string name="title_activity_admin">AdminActivity</string>
+    <string name="pizza">pizza</string>
+</resources>
